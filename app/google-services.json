@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "464077003640",
+    "firebase_url": "https://tipsy-2a356.firebaseio.com",
+    "project_id": "tipsy-2a356",
+    "storage_bucket": "tipsy-2a356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464077003640:android:bd5c914f180516c3",
+        "android_client_info": {
+          "package_name": "ir.candoo.tipsy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464077003640-ub40esu526dcpv2554iaha1q102p7381.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.candoo.tipsy",
+            "certificate_hash": "0b76e732103fc11189121efb2fea54f947ea82ce"
+          }
+        },
+        {
+          "client_id": "464077003640-80clndq49aoktjq8r997p0phnk3g7n45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_mfrHLgV-IVyuEonRF2xYH_yRwngP4Ao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464077003640-80clndq49aoktjq8r997p0phnk3g7n45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
